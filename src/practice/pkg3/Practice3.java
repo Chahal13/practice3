@@ -18,7 +18,7 @@ public class Practice3 {
         // TODO code application logic here
         
         
-        System.out.println("all the best");
+        System.out.println("all the best h");
     }
     
 }
